@@ -1,7 +1,7 @@
 FROM Alirvdiq/Alirvd:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/vbajw /root/vbajw
+RUN git clone https://github.com/vbajw/Betho.git /root/Betho
 #working directory 
 WORKDIR /root/Alirvd
 
